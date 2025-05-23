@@ -1,2 +1,3 @@
 # ohiOS
-ohiOS python os building    :) or =)
+ohiOS python os building    :) or =) 
+it was MY idea!
